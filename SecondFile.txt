@@ -1,0 +1,3 @@
+This file has password
+
+password = "P@ssw0rd123"
